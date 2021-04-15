@@ -1,0 +1,11 @@
+#sideLengthDiv,
+#radiusDiv,
+#areaDiv,
+#perimeterDiv {
+    display: none;
+}
+
+#canvas {
+    height: 500px;
+    width: 500px;
+}
